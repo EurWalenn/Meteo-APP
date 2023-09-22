@@ -1,0 +1,28 @@
+{"API_Key" : "api_key",
+  "Configuration":[
+      {
+    "Nom_Zone_Meteo": "Villa Mediterranee",
+    "Latitude": 43.2972593404922,
+    "Longitude" : 5.361967342329705,
+    "Rayon_Data_Km" : 20
+  },
+  {
+    "Nom_Zone_Meteo": "Millau",
+    "Latitude": 44.091176,
+    "Longitude" : 3.021247,
+    "Rayon_Data_Km" : 5
+  },
+    {
+    "Nom_Zone_Meteo": "Chambery",
+    "Latitude": 45.57108343543333,
+    "Longitude" : 5.914552381829186,
+    "Rayon_Data_Km" : 10
+  },
+    {
+    "Nom_Zone_Meteo": "Goudissard",
+    "Latitude": 44.932200326546585,
+    "Longitude" :  6.566455899427673,
+    "Rayon_Data_Km" : 20
+  }
+]
+}
