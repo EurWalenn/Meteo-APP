@@ -28,7 +28,7 @@ Configurez les paramètres d'acquisition dans le fichier Configuration.json et m
 Exécutez le script Meteo_App.py pour lancer le traitement.
 Les données récupérées seront enregistrées dans le répertoire ou se trouve Meteo_App.py
 
-## Fichier de configuration :$
+## Fichier de configuration :
 Modifiez l'API_Key dans le fichier de configuration Configuration.json avec celle que vous avez obtenue sur https://api.meteo-concept.com
 Nom_Zone_Meteo est le nom du lieu que vous souhaitez atteindre.
 Latitude et Longitude sont les coordonnées du points ou vous souhaitez obtenir les informations météo.
